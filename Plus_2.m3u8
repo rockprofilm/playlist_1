@@ -52,9 +52,7 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/tracks-v4a1/mono.ts.m
 http://ktk-hls-direct.rockprofilm.workers.dev/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" group-title="Казахстан",КТК
-#EXTVLCOPT:http-referrer=https://www.ktk.kz/ru/live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/media_w1121351221_b6128000_slrus_10516.ts
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xabar" tvg-name="ХАБАР",ХАБАР
 https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=19a8eea6df4c155292307c7060ae0012

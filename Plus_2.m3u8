@@ -1,7 +1,7 @@
 
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 tvg-id="pervy" group-title="Россия" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
 #EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor24.cc/live/4.m3u8
@@ -58,7 +58,7 @@ https://streaming.televizor24.cc/live/15.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvplus2.rockprofilm.workers.dev/stsplus2/index.m3u8
 
-#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" group-title="Россия" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ3
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ3
 #EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor24.cc/live/17.m3u8
@@ -68,7 +68,7 @@ https://streaming.televizor24.cc/live/17.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor24.cc/live/1.m3u8
 
-#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" group-title="Россия",Матч ТВ
+#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ",Матч ТВ
 #EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor24.cc/live/6.m3u8

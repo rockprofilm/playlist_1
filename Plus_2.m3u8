@@ -14,21 +14,15 @@ https://tvplus2.rockprofilm.workers.dev/pervyplus2/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1",Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1",Россия 1
-https://live.smotrim.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
-
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия Культура",Россия Культура HD
-https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия Культура",Россия Культура
-https://live.smotrim.ru/vgtrk/0/kultura-hd/track_103_319a299f/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-shift="-2",Россия 1 Урал +2
 #EXTVLCOPT:http-referrer=https://ekt.telik.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvplus2.rockprofilm.workers.dev/russia1plus2/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ",НТВ Урал
+#EXTINF:-1 tvg-id="kultura" tvg-name="Россия Культура",Россия Культура HD
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ",НТВ
 #EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor24.cc/live/7.m3u8
@@ -67,6 +61,12 @@ https://streaming.televizor24.cc/live/17.m3u8
 #EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor24.cc/live/1.m3u8
+
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" group-title="Россия",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" group-title="Россия",Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ",Матч ТВ
 #EXTVLCOPT:http-referrer=https://televizor24.cc/

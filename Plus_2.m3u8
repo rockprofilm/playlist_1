@@ -46,11 +46,6 @@ https://irbishd-cloudflare-direct.rockprofilm.workers.dev/stream/irbis.m3u8
 #EXTINF:-1 tvg-id="kazsport" tvg-name="КазСпорт",КазСпорт
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/tracks-v4a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК",КТК
-#EXTVLCOPT:http-referrer=https://www.ktk.kz/ru/live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36
-http://ktk-hls-direct.rockprofilm.workers.dev/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" group-title="Казахстан",КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 

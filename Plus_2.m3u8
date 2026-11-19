@@ -35,7 +35,7 @@ https://tvplus2.rockprofilm.workers.dev/ntvplus2/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
 #EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://streaming.televizor24.cc/live/22.m3u8
+https://streaming.televizor24.cc/live/23.m3u8
 
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-shift="-2" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ Урал +2
 #EXTVLCOPT:http-referrer=https://ekt.telik.top
@@ -45,7 +45,7 @@ https://tvplus2.rockprofilm.workers.dev/tntplus2/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС",СТС
 #EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://streaming.televizor24.cc/live/15.m3u8
+https://streaming.televizor24.cc/live/16.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-shift="-2",СТС Урал +2
 #EXTVLCOPT:http-referrer=https://ekt.telik.top
@@ -55,12 +55,12 @@ https://tvplus2.rockprofilm.workers.dev/stsplus2/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ3
 #EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://streaming.televizor24.cc/live/17.m3u8
+https://streaming.televizor24.cc/live/18.m3u8
 
 #EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ",РЕН ТВ
 #EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://streaming.televizor24.cc/live/1.m3u8
+https://streaming.televizor24.cc/live/14.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" group-title="Россия",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8

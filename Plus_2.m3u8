@@ -1,37 +1,37 @@
 
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" group-title="Россия",Россия 1 HD
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1",Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" group-title="Россия",Россия 1
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1",Россия 1
 https://live.smotrim.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
 
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия Культура" group-title="Россия",Россия Культура HD
+#EXTINF:-1 tvg-id="kultura" tvg-name="Россия Культура",Россия Культура HD
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия Культура" group-title="Россия",Россия Культура
+#EXTINF:-1 tvg-id="kultura" tvg-name="Россия Культура",Россия Культура
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_103_319a299f/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС" group-title="Россия",СТС Урал +2
+#EXTINF:-1 tvg-id="sts" tvg-name="СТС",СТС Урал +2
 #EXTVLCOPT:http-referrer=https://ekt.telik.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://pctc-cloudflare-m3u8.rockprofilm.workers.dev/pctc/index.m3u8
 
-#EXTINF:-1 tvg-id="Irbis.kz" tvg-name="Ирбис ТВ" group-title="Казахстан" tvg-logo="https://i.imgur.com/XnB5Sls.png",Ирбис ТВ HD
+#EXTINF:-1 tvg-id="Irbis.kz" tvg-name="Ирбис ТВ" tvg-logo="https://i.imgur.com/XnB5Sls.png",Ирбис ТВ HD
 #EXTVLCOPT:http-referrer=https://live.vkvideo.ru/irbis_tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://irbishd-cloudflare-direct.rockprofilm.workers.dev/stream/irbis.m3u8
 
-#EXTINF:-1 tvg-id="kazsport" tvg-name="КазСпорт" group-title="Казахстан",КазСпорт
+#EXTINF:-1 tvg-id="kazsport" tvg-name="КазСпорт",КазСпорт
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/tracks-v4a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" group-title="Казахстан",КТК
+#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК",КТК
 #EXTVLCOPT:http-referrer=https://www.ktk.kz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="xabar" tvg-name="ХАБАР" group-title="Казахстан",ХАБАР
+#EXTINF:-1 tvg-id="xabar" tvg-name="ХАБАР",ХАБАР
 https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=19a8eea6df4c155292307c7060ae0012
 
 #EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" group-title="Казахстан",Qazaqstan

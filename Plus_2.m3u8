@@ -62,10 +62,10 @@ https://streaming.televizor24.cc/live/18.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor24.cc/live/14.m3u8
 
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" group-title="Россия",Звезда HD
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" group-title="Россия",Звезда
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ",Матч ТВ
@@ -81,7 +81,7 @@ https://irbishd-cloudflare-direct.rockprofilm.workers.dev/stream/irbis.m3u8
 #EXTINF:-1 tvg-id="kazsport" tvg-name="КазСпорт",КазСпорт
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/tracks-v4a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" group-title="Казахстан",КТК
+#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК",КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xabar" tvg-name="ХАБАР",ХАБАР

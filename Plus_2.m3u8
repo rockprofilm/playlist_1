@@ -2,3 +2,8 @@
 #EXTVLCOPT:http-referrer=https://ekt.telik.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://pctc-cloudflare-m3u8.rockprofilm.workers.dev/pctc/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-shift="-2" group-title="Россия" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ Урал +2
+#EXTVLCOPT:http-referrer=https://ekt.telik.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://htf10.ontv.red/hlsp/ptnt/index.m3u8

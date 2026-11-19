@@ -13,10 +13,31 @@ https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия Культура",Россия Культура
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_103_319a299f/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС",СТС Урал +2
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-shift="-2",Первый канал Урал +2
 #EXTVLCOPT:http-referrer=https://ekt.telik.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pctc-cloudflare-m3u8.rockprofilm.workers.dev/pctc/index.m3u8
+https://tvplus2.rockprofilm.workers.dev/pervyplus2/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-shift="-2" group-title="Россия",Россия 1 Урал +2
+#EXTVLCOPT:http-referrer=https://ekt.telik.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvplus2.rockprofilm.workers.dev/russia1plus2/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-shift="-2" group-title="Россия",НТВ Урал +2
+#EXTVLCOPT:http-referrer=https://ekt.telik.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvplus2.rockprofilm.workers.dev/ntvplus2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-shift="-2",СТС Урал +2
+#EXTVLCOPT:http-referrer=https://ekt.telik.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvplus2.rockprofilm.workers.dev/stsplus2/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-shift="-2" group-title="Россия" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ Урал +2
+#EXTVLCOPT:http-referrer=https://ekt.telik.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvplus2.rockprofilm.workers.dev/tntplus2/index.m3u8
 
 #EXTINF:-1 tvg-id="Irbis.kz" tvg-name="Ирбис ТВ" tvg-logo="https://i.imgur.com/XnB5Sls.png",Ирбис ТВ HD
 #EXTVLCOPT:http-referrer=https://live.vkvideo.ru/irbis_tv/

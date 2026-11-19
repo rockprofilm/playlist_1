@@ -2,3 +2,8 @@
 #EXTVLCOPT:http-referrer=https://ekt.telik.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://pctc-cloudflare-m3u8.rockprofilm.workers.dev/pctc/index.m3u8
+
+#EXTINF:-1 tvg-id="Irbis.kz" tvg-name="Ирбис ТВ" group-title="Казахстан" tvg-logo="https://i.imgur.com/XnB5Sls.png",Ирбис ТВ HD
+#EXTVLCOPT:http-referrer=https://live.vkvideo.ru/irbis_tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://irbishd-cloudflare-direct.rockprofilm.workers.dev/stream/irbis.m3u8

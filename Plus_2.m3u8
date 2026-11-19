@@ -28,20 +28,50 @@ https://live.smotrim.ru/vgtrk/0/kultura-hd/track_103_319a299f/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvplus2.rockprofilm.workers.dev/russia1plus2/index.m3u8
 
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ",НТВ Урал
+#EXTVLCOPT:http-referrer=https://televizor24.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streaming.televizor24.cc/live/7.m3u8
+
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-shift="-2" ,НТВ Урал +2
 #EXTVLCOPT:http-referrer=https://ekt.telik.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvplus2.rockprofilm.workers.dev/ntvplus2/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
+#EXTVLCOPT:http-referrer=https://televizor24.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streaming.televizor24.cc/live/22.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-shift="-2" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ Урал +2
+#EXTVLCOPT:http-referrer=https://ekt.telik.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tvplus2.rockprofilm.workers.dev/tntplus2/index.m3u8
+
+#EXTINF:-1 tvg-id="sts" tvg-name="СТС",СТС
+#EXTVLCOPT:http-referrer=https://televizor24.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streaming.televizor24.cc/live/15.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-shift="-2",СТС Урал +2
 #EXTVLCOPT:http-referrer=https://ekt.telik.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tvplus2.rockprofilm.workers.dev/stsplus2/index.m3u8
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-shift="-2" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ Урал +2
-#EXTVLCOPT:http-referrer=https://ekt.telik.top
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" group-title="Россия" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ3
+#EXTVLCOPT:http-referrer=https://televizor24.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tvplus2.rockprofilm.workers.dev/tntplus2/index.m3u8
+https://streaming.televizor24.cc/live/17.m3u8
+
+#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ",РЕН ТВ
+#EXTVLCOPT:http-referrer=https://televizor24.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streaming.televizor24.cc/live/1.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" group-title="Россия",Матч ТВ
+#EXTVLCOPT:http-referrer=https://televizor24.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streaming.televizor24.cc/live/6.m3u8
 
 #EXTINF:-1 tvg-id="Irbis.kz" tvg-name="Ирбис ТВ" tvg-logo="https://i.imgur.com/XnB5Sls.png",Ирбис ТВ HD
 #EXTVLCOPT:http-referrer=https://live.vkvideo.ru/irbis_tv/
